@@ -1,4 +1,4 @@
-<h3 align="center">Hello, i'm Custy 👋</h3>
+<h3 align="center">Hello, I'm Custy 👋</h3>
 
 ![MasterHead](https://cdn.discordapp.com/attachments/808121726876647484/919724801512321054/banner_1.png)
 
