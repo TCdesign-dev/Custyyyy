@@ -30,7 +30,7 @@
 ![MasterHead](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![MasterHead](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-# ☕️Chill with me
+# 🎵My favourite music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p43y5s2znfs6chwrsjj52uijnm)
 
 <h3 align="center">Social</h3>
