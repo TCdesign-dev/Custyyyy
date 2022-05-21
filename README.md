@@ -1,6 +1,6 @@
-<h3 align="center">Hello, I'm Custy 👋</h3>
+<h3 align="center">Hello, I'm Tommy 👋</h3>
 
-![MasterHead](https://cdn.discordapp.com/attachments/808121726876647484/919724801512321054/banner_1.png)
+![MasterHead](https://cdn.discordapp.com/attachments/808121726876647484/977715539952685107/banner_git_hub_1.png)
 
 # 💻Workspace
 ![MasterHead](https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white)
